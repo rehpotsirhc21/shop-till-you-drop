@@ -31,6 +31,6 @@ langnerc@icloud.com
 ## Links
 Repo: https://github.com/rehpotsirhc21/shop-till-you-drop
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=W1W4KqS5SFE
 ## Resources
 - the config file was not working as it was set up in the starter code. I've been having issues with how the modules have set it up as well. https://stackoverflow.com/questions/42335016/dotenv-file-is-not-loading-environment-variables
