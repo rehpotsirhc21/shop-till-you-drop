@@ -10,6 +10,7 @@
   8. [E-mail](#e-mail)
   9. [Links](#links)
   10. [Resources](#resources)
+  11. [Comments](#comments)
   
 ## Description
 This is the back end for an e-commerce website.  
@@ -34,3 +35,9 @@ Repo: https://github.com/rehpotsirhc21/shop-till-you-drop
 YouTube: https://www.youtube.com/watch?v=W1W4KqS5SFE
 ## Resources
 - the config file was not working as it was set up in the starter code. I've been having issues with how the modules have set it up as well. https://stackoverflow.com/questions/42335016/dotenv-file-is-not-loading-environment-variables
+- I used various websites I found on google, youtube and our module work for this week and previous weeks. 
+
+## Comments
+I found this project to be diffcult. I still do not feel comfortable on the back end. When i approached this- I was a deer in the headlights and required a lot of googling. I do not feel like I could apply this to anything more complex (e.g the Sudkou project we looked at in office hours) 
+
+
