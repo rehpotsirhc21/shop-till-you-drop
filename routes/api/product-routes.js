@@ -94,10 +94,10 @@ router.put("/:id", (req, res) => {
       return ProductTag.findAll({ where: { product_id: req.params.id } });
     })
     .then((productTags) => {
-      const productTagIds = productTags.map(({ tag_id }) => tag_id);
+      const tagId = productTags.map(({ tag_id }) => tag_id);
 
-      const newProductTags = req.body.tagIds
-        .filter((tag_id) => !productTagIds.includes(tag_id))
+      const updatedTags = req.body.tagIds
+        .filter((tag_id) => !tagId.includes(tag_id))
         .map((tag_id) => {
           return {
             product_id: req.params.id,
